@@ -1,2 +1,5 @@
 # GVA_Ukraine_Regional-Sectoral_Analysis-
 У статті досліджено економічний розвиток України протягом 2014–2021 років на основі аналізу валової доданої вартості, випуску та індексів фізичного обсягу ВДВ. Розглянуто динаміку номінальних показників, визначено провідні галузі економіки та регіони за внеском у формування ВДВ.
+
+# Keywords: 
+Gross Value Added, Economic Development, Regional Analysis, Sectoral Structure, Output, Tableau, Ukraine.
