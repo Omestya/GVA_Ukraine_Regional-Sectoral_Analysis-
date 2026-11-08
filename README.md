@@ -9,7 +9,7 @@
 - Microsoft Excel - опрацювання та підготовка даних, об'єднання датасетів в один файл.
 - Tableau - побудова графіків та візуалізація результатів.
 ## Матеріали дослідження
-- [Підготовка даних у Excel]()
+- [Підготовка даних у Excel](https://github.com/Omestya/GVA_Ukraine_Regional-Sectoral_Analysis-/blob/main/dataset_for_article.xlsx)
 - [Звіт у форматі PDF]()
 - [Дашборд Динаміка ВДВ та випуску у 2014-2021 роках у Tableau Public](https://public.tableau.com/views/article_17941488897790/2014-2021_1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [Дашборд Галузева та регіональна структура ВДВ  у Tableau Public](https://public.tableau.com/views/article_17941488897790/sheet11?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
